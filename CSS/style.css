@@ -1,10 +1,35 @@
 h1{
     color: rgb(21, 255, 0);
 }
-
+body{
+    background-color: bisque;
+}
 div{
-    background-color: rgba(105, 105, 105, 0.514);
+    background-color: white;
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
 }
 p{
-    color: aqua;
+    color: yellowgreen;
+}
+#ultima-caixa{
+    color:blueviolet
+
+}
+.div-caixa{
+    color:yellowgreen
+}
+.caixa-do-meio{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 60px; 
+    padding-left: 80;
+
+    margin-top: 80px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+
+    border: 20px solid black;
 }
